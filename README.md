@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 How to run:
   - git clone https://github.com/gitBhanuPratap/DribbbleCloneAssesment
-  - cd
+  - cd DribbleCloneAssesment
   - npm install
   - npm run dev
 then navigate to 'http://localhost:5173'
